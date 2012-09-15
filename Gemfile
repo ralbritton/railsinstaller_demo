@@ -10,7 +10,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 gem 'mysql2', :group => :production
-
+gem 'postgresql'
 
 
 # Gems used only for assets and not required
@@ -51,4 +51,3 @@ gem 'jquery-rails'
 # To use debugger
 
 # gem 'ruby-debug19', :require => 'ruby-debug'
-gem 'mysql2', :group => :production
